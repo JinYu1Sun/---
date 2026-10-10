@@ -1,0 +1,61 @@
+# ========== Unity ==========
+# Unity 项目自动生成的目录，无需提交
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Mm]emoryCaptures/
+**/[Rr]ecordings/
+**/*.csproj
+**/*.unityproj
+**/*.sln
+**/*.suo
+**/*.user
+**/*.userprefs
+**/*.pidb
+**/*.booproj
+**/*.svd
+**/*.pdb
+**/*.mdb
+**/*.opendb
+**/*.VC.db
+**/.vs/
+**/.idea/
+**/crashlytics-build.properties
+
+# Unity 打包产物
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ========== Blender ==========
+# 自动备份文件
+*.blend1
+*.blend2
+*.blend3
+
+# ========== ZBrush ==========
+# 自动保存与崩溃恢复
+*.ZBr
+ZBrushData/
+
+# ========== 通用 ==========
+# 操作系统
+Thumbs.db
+Desktop.ini
+.DS_Store
+$RECYCLE.BIN/
+
+# 临时与缓存
+*.tmp
+*.bak
+*.cache
+__pycache__/
+
+# 大体积的导出中间文件可按需开启：
+# *.exr
+# *.tga
